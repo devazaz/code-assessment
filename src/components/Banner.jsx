@@ -6,7 +6,7 @@ import bannerStar from "../assets/bannerStart.svg";
 const Banner = () => {
   return (
     <div className="pt-[106px] pb-[300px] relative">
-      <div className="text-[32px] sm:text-[56px] leading-[40px] sm:leading-[70px] max-w-[90%] sm:max-w-[650px] mx-auto text-center font-semibold">
+      <div className="text-[32px] sm:text-[56px] leading-[40px] sm:leading-[70px] max-w-[90%] sm:max-w-[700px] mx-auto text-center font-semibold">
         Revolutionize Your Hiring Process with{" "}
         <span className="bg-gradient-to-r from-[#1AD7BE] to-[#1F67E7] inline-block text-transparent bg-clip-text relative">
           Recruito AI
